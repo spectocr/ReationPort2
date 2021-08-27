@@ -10,7 +10,7 @@ return(
             <div className="mt-5 pl-5 pr-5">
                 some guy who likes to code.
                 <p>
-                Download my full <a href="https://github.com/spectocr/ReationPort2/blob/main/.gitignore" className="link">resume</a>
+                Download my full <a href="https://github.com/spectocr/ReationPort2/blob/src/assets/BlankResume.jpeg" className="link">resume</a>
                 <br></br>
                 </p>
             </div>
