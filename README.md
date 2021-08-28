@@ -13,6 +13,7 @@
 
   ## Installation
     * To install: npm install
+    * Live site on github pages here: https://spectocr.github.io/ReationPort2
   
   ## Usage 
     * Use this program by: use it
