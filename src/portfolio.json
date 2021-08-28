@@ -30,5 +30,21 @@
     "github": "https://github.com/spectocr/doppler3",
     "deploy": "https://spectocr.github.io/doppler3/",
     "topics": "javascript, jQuery, html, bootstrap, moment, API"
+    },
+    {
+    "id": 5,
+    "name": "weather dashboard",
+    "image": "https://github.com/spectocr/doppler3/blob/main/ss.png?raw=true",
+    "github": "https://github.com/spectocr/doppler3",
+    "deploy": "https://spectocr.github.io/doppler3/",
+    "topics": "javascript, jQuery, html, bootstrap, moment, API"
+    },
+    {
+    "id": 6,
+    "name": "weather dashboard",
+    "image": "https://github.com/spectocr/doppler3/blob/main/ss.png?raw=true",
+    "github": "https://github.com/spectocr/doppler3",
+    "deploy": "https://spectocr.github.io/doppler3/",
+    "topics": "javascript, jQuery, html, bootstrap, moment, API"
     }
 ]
